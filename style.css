@@ -1,0 +1,60 @@
+body{
+
+ width: 1440px;
+
+ background-color: hsl(233, 47%, 7%);
+
+ font-size: 15px;
+ 
+ margin-left: 50px;
+
+ 
+}
+
+h1{
+    line-height: 1;
+    width: 70%;
+    color: hsl(0, 0%, 100%);
+}
+
+.content{
+    background-color: hsl(244, 38%, 16%);
+    margin: 200px;
+    margin-right: 70px;
+
+    width: 450px;
+    /* height: 200px; */
+
+    padding: 20px 50PX;
+ position: relative;
+    line-height: 2;
+}
+
+.description{
+    width: 70%;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+strong{
+    color: hsl(0, 0%, 100%);
+    margin: 0px 30px;
+
+}
+.span{
+    margin: 0px 15px;
+}
+
+.content-img{
+    
+    width: 369px;
+    position: absolute;
+    /* float: left; */
+    left: 550px ;
+    bottom: 140px;
+    top: 0px;
+    right: 0px;
+}
+
+.footer{
+    color: hsla(0, 0%, 100%, 0.6);
+}
